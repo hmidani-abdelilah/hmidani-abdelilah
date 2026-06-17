@@ -1,15 +1,15 @@
 # 👋 مرحباً، أنا عبد الإله حمداني
 
 ## About Me | حولي
-- 💻 مطور برمجيات passionate و مهتم بالتكنولوجيا الحديثة
+- 💻 مدير أنظمة وشبكات و مطور برمجيات passionate و مهتم بالتكنولوجيا الحديثة
 - 🔧 خبرة في تطوير التطبيقات والمشاريع مفتوحة المصدر
 - 🌍 مهتم بحل المشاكل من خلال البرمجة
 
 ## Skills | المهارات
-- **Languages**: Python, JavaScript, C++, HTML/CSS
-- **Frameworks**: Django, Flask, React, FastAPI
+- **Languages**: Python, C, C++, HTML/CSS 
+- **Frameworks**: Django, Flask, FastAPI
 - **Tools**: Git, Docker, GitHub, VS Code
-- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Databases**: MySQL, PostgreSQL, MongoDB , Mariadb
 
 ## Current Projects | المشاريع الحالية
 - 📹 **Media Downloader** - تطبيق لتحميل الفيديوهات والوسائط
@@ -20,7 +20,7 @@
 - 📚 استكشاف أحدث تقنيات في عالم تطوير البرمجيات
 
 ## Let's Connect | تواصل معي
-- 📧 البريد الإلكتروني: hmidani.abdelilah@gmail.com
+- 📧 البريد الإلكتروني: 
 - 🔗 LinkedIn: [LinkedIn Profile](https://linkedin.com)
 - 📱 تابعني على GitHub للمزيد من المشاريع
 
