@@ -6,7 +6,7 @@
 - 🌍 مهتم بحل المشاكل من خلال البرمجة
 
 ## Skills | المهارات
-- **Networking and System Administrator" Cisco , Gnu/Linux , FreeBsd , OPsense/Pfsense ,Windows Server 
+- **Networking and System Administrator** Cisco , Gnu/Linux , FreeBsd , OPsense/Pfsense ,Windows Server 
 - **Languages**: Python, C, C++, shell scripts 
 - **Frameworks**: Django, Flask, FastAPI
 - **Tools**: Git, Docker, GitHub, VS Code
