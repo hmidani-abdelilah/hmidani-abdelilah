@@ -6,7 +6,8 @@
 - 🌍 مهتم بحل المشاكل من خلال البرمجة
 
 ## Skills | المهارات
-- **Languages**: Python, C, C++, HTML/CSS 
+- **Networking and System Administrator" Cisco , Gnu/Linux , FreeBsd , OPsense/Pfsense ,Windows Server 
+- **Languages**: Python, C, C++, shell scripts 
 - **Frameworks**: Django, Flask, FastAPI
 - **Tools**: Git, Docker, GitHub, VS Code
 - **Databases**: MySQL, PostgreSQL, MongoDB , Mariadb
@@ -17,7 +18,7 @@
 - 🌐 مل على تحسين مهاراتي في تطوير الويب
 
 ## Learning | قيد التعلم
-- 🌱 أتعلم حالياً المزيد عن Cloud Computing و DevOps
+- 🌱 أتعلم حالياً المزيد عن  rust و DevOps
 - 📚 استكشاف أحدث تقنيات في عالم تطوير البرمجيات
 
 ## Let's Connect | تواصل معي
