@@ -42,6 +42,25 @@
 - Automated threat response
 - [Repository Link]
 
+### CTkFileDialog-plus
+نافذة حوار ملفات حديثة وقابلة للتخصيص بالكامل لـ CustomTkinter - حزمة إضافات لا غنى عنها!
+
+- 🔍 Autocomplete in the path entry field (with `Tab`, `Up`, and `Down`)
+- 🧩 Flexible filetype filters: accepts simple extensions **or** tkinter-style `(label, pattern)` tuples (patterns may contain multiple space‑separated globs). Wildcards like `*`/`*.*` are treated as match‑all.
+- � Search/filter files in real-time
+- 🖼️ Live image preview
+- 🎥 Video thumbnail preview
+- 📁 Directory selection (single or multiple)
+- 📄📁 Combined file-or-folder selection (single or multiple)
+- ➕ Create new folders from within the dialog (`foldercreation`)
+- 💾 Save file dialog (return path or open file), with automatic extension (`defaultext`)
+- ❔ Tooltip support
+- 🖥️ Shell Path Syntax Support
+- ⌨️ Backspace using Alt + Left Arrow shortcut
+- 👀 Multiple view modes (Grid and List view in Default dialog)
+- 📊 Sort files by name, date, size, type, or last modified
+- 💡 Data type validation at runtime and for static type analyzers
+
 ## 🌱 Learning & Development | قيد التعلم
 
 - 🦀 **Rust Programming** - أستكشف لغة Rust للأداء العالي
